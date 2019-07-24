@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
-#include"Student.h"
-void Student::display()
+#include"student.h"
+void student::display()
 {
     cout<<"num:"<<num<<endl;
     cout<<"name:"<<name<<endl;
